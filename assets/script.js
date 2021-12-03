@@ -2,7 +2,7 @@
 var total = 0
 
 // First, tell us your name
-let yourName = "Abraham Gonzlez" // HINT: Replace this with your own name!
+let yourName = "Abraham Gonzalez" // HINT: Replace this with your own name!
 
 // We'll use these variables to track the counts of each cookie type
 let gb = 0      // Gingerbread
